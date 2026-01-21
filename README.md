@@ -1,5 +1,7 @@
 ### Data Analyst |  Power BI | SQL | Excel
 
+## About Me
+
 Aspiring Data Analyst with hands-on experience in SQL, Excel, Power BI, and Python. Leveraging my background as an Academic Coordinator, I have developed strong skills in analyzing academic and operational data, tracking performance metrics, and creating structured reports to support data-driven decision-making.
 
 This portfolio showcases projects where I have applied data cleaning, exploratory data analysis, visualization, and dashboard development to solve real-world problems. Key projects include ShopNest Store Sales Analysis in Power BI and Employee Project Performance Analysis using Python, demonstrating my ability to turn raw data into actionable insights.
